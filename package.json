@@ -8,6 +8,13 @@
   },
   "dependencies": {
     "discord.js": "11.1.0",
-    "request": "2.81.0"
+    "request": "2.81.0",
+    "nba.js": {
+      "version": "https://registry.npmjs.org/nba.js/-/nba.js-0.4.1.tgz",
+      "integrity": "sha1-CAnWtn7sI9GLoqcM/XjqC/QYIkE=",
+      "requires": {
+        "got": "https://registry.npmjs.org/got/-/got-7.0.0.tgz"
+      }
+    }
   }
 }
